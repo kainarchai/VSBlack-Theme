@@ -3,6 +3,10 @@
     "displayName": "VSBlack",
     "description": "dark-plus-syntax theme with black background",
     "version": "0.0.1",
+    "publisher": "ExarGD",
+    "repository": {
+        "url": "https://github.com/ExarGD/VSBlack-Theme"
+    },
     "engines": {
         "vscode": "^1.36.0"
     },
